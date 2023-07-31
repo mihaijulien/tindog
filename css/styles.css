@@ -141,3 +141,15 @@ p {
   .social {
     padding-bottom: 5%;
   }
+
+  /* Call to Action  */
+
+  #cta {
+    background-color: #ff4c68;
+  }
+
+  .cta-text {
+    font-family: "Montserrat Black";
+    color: #fff;
+    text-align: center;
+  }
